@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readCSV", "readCSV\readCSV.csproj", "{0DFEF816-8D17-475F-8369-3B0CE22BE837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScottPlot", "..\..\..\..\..\dev\lib\ScottPlot-master\src\ScottPlot\ScottPlot.csproj", "{146D9444-8D80-4049-AB17-55AE852F59E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFEF816-8D17-475F-8369-3B0CE22BE837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFEF816-8D17-475F-8369-3B0CE22BE837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFEF816-8D17-475F-8369-3B0CE22BE837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFEF816-8D17-475F-8369-3B0CE22BE837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967F4B87-5AA6-465E-A663-B42FC3AC7431}
+	EndGlobalSection
+EndGlobal
