@@ -14,13 +14,10 @@ C:\Users\teozk\source\repos\readCSV\readCSV\obj\Debug\readCSV.pdb
 C:\dev\GUI\readCSV\readCSV\bin\Debug\readCSV.exe.config
 C:\dev\GUI\readCSV\readCSV\bin\Debug\readCSV.exe
 C:\dev\GUI\readCSV\readCSV\bin\Debug\readCSV.pdb
-C:\dev\GUI\readCSV\readCSV\bin\Debug\ScottPlot.dll
-C:\dev\GUI\readCSV\readCSV\bin\Debug\ScottPlot.pdb
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.csprojAssemblyReference.cache
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.Form1.resources
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.Properties.Resources.resources
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.csproj.GenerateResource.cache
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.csproj.CoreCompileInputs.cache
-C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.csproj.CopyComplete
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.exe
 C:\dev\GUI\readCSV\readCSV\obj\Debug\readCSV.pdb
